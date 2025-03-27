@@ -16,4 +16,4 @@ Feel free to explore my work and contact me for any collaboration opportunities 
 
 ## How to view:
 1. Clone this repository.
-2. Open the file:"///C:/Users/Jassim/Desktop/FSWD/CSS/Jassim%20pf/contactform.html" file in any modern browser.
+2. Open the [file:///C:/Users/Jassim/Desktop/FSWD/CSS/Jassim%20pf/contactform.html ] in any modern browser.
